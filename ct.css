@@ -176,6 +176,26 @@
     background-image: url(img/ПА500_Бочка\ для\ отвержденных\ ЖРО\ I\ группы\ активности\ 1.jpg);
 }
 
+.card--36 .card__img1, .card--36 .card__img1--hover {
+    background-image: url(img/ПА121_Чехол\ транспортный.jpg);
+}
+
+.card--37 .card__img1, .card--37 .card__img1--hover {
+    background-image: url(img/РНАТ_Контейнер\ ззащитный.jpg);
+}
+
+.card--38 .card__img1, .card--38 .card__img1--hover {
+    background-image: url(img/ПА288\ \(1\)\ Цилиндр\ защитный.jpg);
+}
+
+.card--39 .card__img1, .card--39 .card__img1--hover {
+    background-image: url(img/Пеналы\ 1.jpg);
+}
+
+.card--40 .card__img1, .card--40 .card__img1--hover {
+    background-image: url(img/ЗУМ1-03.01.000_штанга\ телескопическая\,\ \(из\ раб.штанги\ маш.перегр.\)\ Зап.АЭС\ -1.JPG);
+}
+
 
 .card__img {
   visibility: hidden;
