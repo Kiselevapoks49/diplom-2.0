@@ -909,7 +909,7 @@ float: right;
   height: 400px;
   width: 70%;
   padding: 10px 20px;
-  background: rgba(255,255,255,.6);
+  background: rgba(228, 227, 227, 0.774);
  
 }
 .image-caption a {
@@ -1001,6 +1001,8 @@ float: right;
 
 .pesontedan-content {
   max-height: 0;
+  margin-left: 1.5%;
+  margin-right: 2.5%;
   overflow: hidden;
   background: #ffffff00;
   transition: max-height .40s;
@@ -1015,6 +1017,7 @@ float: right;
 }
 .pesontedan-content p {
   margin: 1em;
+  
 }
 /* :checked */
 .pesontedan input:checked ~ .pesontedan-content {
